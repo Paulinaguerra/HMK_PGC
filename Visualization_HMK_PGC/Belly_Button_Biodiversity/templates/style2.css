@@ -1,0 +1,32 @@
+*{
+    font-family: 'Swanky and Moo Moo', cursive;
+
+}
+
+body{
+    background-color: #6e6557;
+}
+
+h1{
+    font-family: 'Freckle Face', cursive;
+}
+
+#selDataset{
+    background-color: #C9AE72;
+}
+
+#sample-metadata{
+    background-color: #a69e77;
+}
+
+.col-md-12{
+    background-color: #C1D175
+}
+
+.well{
+    background-color: #C8C86B;
+}
+
+.panel-panel-primary{
+    background-color: #E6C774;
+}
